@@ -19,6 +19,9 @@
 - Simple, no config nor credit card required: [glitch.com](https://glitch.com/)
 - "Always Free" for simple projects (requires credit card registration): [Google AppEngine](https://cloud.google.com/appengine/)
 
+## Conception
+- [Plan your website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Planning_a_simple_website)
+
 ## Videos
 - [Origins of the web (computerphile)](https://www.youtube.com/watch?v=b0O3rsKjSOs)
 - [HTML IS a programming language (computerphile)](https://www.youtube.com/watch?v=4A2mWqLUpzw)
