@@ -10,6 +10,7 @@
 ## Learn CSS
 - [Introduction to CSS (MDN)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Syntax)
 - [CSS showoff (zengarden)](http://www.csszengarden.com/221/)
+- [The awards of design creativity (awwwards)](https://www.awwwards.com/)
 ## Learn Javascript
 - [Javascript First Steps (MDN)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 - [Vue.js guide](https://vuejs.org/v2/guide/)
