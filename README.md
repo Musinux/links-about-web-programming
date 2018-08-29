@@ -7,6 +7,7 @@
 
 ## Learn HTML
 - [Getting Started with HTML (MDN)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [HTML5: structure globale de la page (alsacréations) (FR)](https://www.alsacreations.com/article/lire/1374-html5-structure-globale-document.html)
 ## Learn CSS
 - [Introduction to CSS (MDN)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Syntax)
 - [CSS showoff (zengarden)](http://www.csszengarden.com/221/)
