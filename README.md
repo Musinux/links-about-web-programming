@@ -16,6 +16,7 @@
 - [Javascript First Steps (MDN)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 - [Vue.js guide](https://vuejs.org/v2/guide/)
 - go check [links-about-node (github)](https://github.com/Musinux/links-about-node)
+- [Vue.js Best Practices](https://docs.gitlab.com/ee/development/fe_guide/style_guide_js.html#vuejs)
 
 ## Host your Node.js app !
 - Simple, no config nor credit card required: [glitch.com](https://glitch.com/)
