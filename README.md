@@ -25,6 +25,9 @@
 ## Conception
 - [Plan your website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Planning_a_simple_website)
 
+## CSS Insights
+- [em vs rem, the full explanation](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+
 ## Videos
 - [Origins of the web (computerphile)](https://www.youtube.com/watch?v=b0O3rsKjSOs)
 - [HTML IS a programming language (computerphile)](https://www.youtube.com/watch?v=4A2mWqLUpzw)
