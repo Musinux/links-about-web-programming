@@ -27,6 +27,7 @@
 
 ## CSS Insights
 - [em vs rem, the full explanation](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+- [A Complete Guide to Flexboxes](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Videos
 - [Origins of the web (computerphile)](https://www.youtube.com/watch?v=b0O3rsKjSOs)
