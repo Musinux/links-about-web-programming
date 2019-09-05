@@ -29,6 +29,9 @@
 - [em vs rem, the full explanation](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 - [A Complete Guide to Flexboxes](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+## Mobile Web
+- [Google Certified Mobile Web Specialist Training Lab](https://developers.google.com/training/certification/mobile-web-specialist/)
+
 ## Videos
 - [Origins of the web (computerphile)](https://www.youtube.com/watch?v=b0O3rsKjSOs)
 - [HTML IS a programming language (computerphile)](https://www.youtube.com/watch?v=4A2mWqLUpzw)
