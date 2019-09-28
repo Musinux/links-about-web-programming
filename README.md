@@ -31,6 +31,7 @@
 
 ## Mobile Web
 - [Google Certified Mobile Web Specialist Training Lab](https://developers.google.com/training/certification/mobile-web-specialist/)
+- [The modern PWA Cheat Sheet by Maximiliano Firtman](https://www.youtube.com/watch?v=cybhV88KLfI)
 
 ## Videos
 - [Origins of the web (computerphile)](https://www.youtube.com/watch?v=b0O3rsKjSOs)
